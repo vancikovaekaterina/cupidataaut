@@ -1,0 +1,1 @@
+fill: _('symbolFillColor', baseFill)
